@@ -49,8 +49,25 @@ Here's an image about the **extra 6 number of episodes** when you finished purch
   - Infographic: [Resolving Database Stability Errors.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Resolving%20Database%20Stability%20Errors.png)
   - Similar Podcast App: [Podcast-Fixing ORA-30926 Join Key Fan-Out.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Fixing%20ORA-30926%20Join%20Key%20Fan-Out.html)
 
-- ......
+- **14. Fixing Oracle LAST_VALUE with Inverse Sorts!**
+  - Video: [Mastering LAST_VALUE.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Mastering%20LAST_VALUE.mp4)
+  - Slide Deck: [Mastering LAST_VALUE in Oracle.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Mastering%20LAST_VALUE%20in%20Oracle.pdf)
+  - Infographic: [Mastering SQL LAST_VALUE Window Frames.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Mastering%20SQL%20LAST_VALUE%20Window%20Frames.png)
+  - Similar Podcast App: [Podcast-Fixing Oracle LAST_VALUE with Inverse Sorts.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Fixing%20Oracle%20LAST_VALUE%20with%20Inverse%20Sorts.html)
 
+- **15. **
+
+- **16. Replace Oracle MODEL with Recursive CTEs!**
+  - Video: [Beyond the MODEL Clause.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Beyond%20the%20MODEL%20Clause.mp4)
+  - Slide Deck: [Beyond the MODEL Clause.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Beyond%20the%20MODEL%20Clause.pdf)
+  - Infographic: [High-Performance SQL Architecture Guide.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/High-Performance%20SQL%20Architecture%20Guide.png)
+  - Similar Podcast App: [Podcast-Replace Oracle MODEL with Recursive CTEs.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Replace%20Oracle%20MODEL%20with%20Recursive%20CTEs.html)
+
+- **17. Faster Oracle Hierarchical Queries with START WITH!**
+  - Video: [Oracle Query Optimization.mp4](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20Query%20Optimization.mp4)
+  - Slide Deck: [Oracle Hierarchical Query Optimization.pdf](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Oracle%20Hierarchical%20Query%20Optimization.pdf)
+  - Infographic: [Optimizing Hierarchical Database Queries.png](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Optimizing%20Hierarchical%20Database%20Queries.png)
+  - Similar Podcast App: [Podcast-Faster Oracle Hierarchical Queries with START WITH.html](https://guestart.github.io/ESOSIPSYvEOlbE6erb-AoEAAF/Podcast-Faster%20Oracle%20Hierarchical%20Queries%20with%20START%20WITH.html)
 
 ## 🔍 About the Author
 
