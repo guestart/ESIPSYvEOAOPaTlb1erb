@@ -14,7 +14,7 @@ You're able to solve them entirely after finish learning the awesome curriculum 
 
 In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, and **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
 
-I've built the promotional activity for the curriculum. In other words, there has **4** number of episodes (**1**, **4**, **8** and **12**) are **`free`**. In fact you just master the **extra 8** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $8** from [https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO)).
+I've built the promotional activity for the curriculum. In other words, there has **4** number of episodes (**1**, **4**, **8** and **12**) are **`free`**. In fact you just master the **extra 8** number of Oracle SQL Tuning skills in this course (you'll find them after **finish paying $8** from [https://quanwenzhao.gumroad.com/l/ESIPSYvEOAOPaTlb1erb](https://quanwenzhao.gumroad.com/l/ESIPSYvEOAOPaTlb1erb)).
 
 Here's an image about the **extra 8 number of episodes** when you finished purchasing this course.
 
@@ -26,25 +26,25 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
   - You can directly click each **`link`** in the **`Course Outline`** below.
 
 - **02. How can I learn the paid content?**
-  - You can directly download **`8 number of episodes`** into your local computer to learn them after purchasing this curriculum from [https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/E6NoOSIPSYvEO).
+  - You can directly download **`8 number of episodes`** into your local computer to learn them after purchasing this curriculum from [https://quanwenzhao.gumroad.com/l/ESIPSYvEOAOPaTlb1erb](https://quanwenzhao.gumroad.com/l/ESIPSYvEOAOPaTlb1erb).
 
 ## 📚 Course Outline
 
 - **01. The Oracle Explain Plan illusion!** ✅
-  - Video: [Oracle SQL Performance.mp4]()
-  - Slide Deck: [Oracle SQL Performance - Explain Plan vs Display Cursor.pdf]()
-  - Infographic: [SQL Performance Theory vs. Reality.png]()
-  - Similar Podcast App: [Podcast-The Oracle Explain Plan illusion.html]()
+  - Video: [Oracle_SQL_Performance.mp4](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/Oracle_SQL_Performance.mp4)
+  - Slide Deck: [Oracle_SQL_Performance-Explain_Plan_vs_Display_Cursor.pdf](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/Oracle_SQL_Performance-Explain_Plan_vs_Display_Cursor.pdf)
+  - Infographic: [SQL_Performance_Theory_vs._Reality.png](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/SQL_Performance_Theory_vs._Reality.png)
+  - Similar Podcast App: [Podcast-The_Oracle_Explain_Plan_illusion.html](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/Podcast-The_Oracle_Explain_Plan_illusion.html)
 
 - **02. The Hidden DML Tax of Indexes!** 💰🔥
 
 - **03. Why Your Oracle Optimizer Is Lying?** 💰🔥
 
 - **04. Oracle Access versus Filter Predicates!** ✅
-  - Video: [Decoding SQL Plans.mp4]()
-  - Slide Deck: [Oracle Performance X-Ray.pdf]()
-  - Infographic: [Database Access vs. Filter Predicates.png]()
-  - Similar Podcast App: [Podcast-Oracle Access versus Filter Predicates.html]()
+  - Video: [Decoding_SQL_Plans.mp4](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Decoding_SQL_Plans.mp4)
+  - Slide Deck: [Oracle_Performance_X-Ray.pdf](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Oracle_Performance_X-Ray.pdf)
+  - Infographic: [Database_Access_vs._Filter_Predicates.png](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Database_Access_vs._Filter_Predicates.png)
+  - Similar Podcast App: [Podcast-Oracle_Access_versus_Filter_Predicates.html](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Podcast-Oracle_Access_versus_Filter_Predicates.html)
 
 - **05. Why Oracle A-Time Numbers Are Deceiving?** 💰🔥
 
