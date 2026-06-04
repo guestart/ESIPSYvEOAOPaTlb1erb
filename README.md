@@ -65,10 +65,10 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 - **11. Why Your Database Ignores Your Indexes?** 💰🔥
 
 - **12. Put Equality Columns First In Oracle Indexes!** 🎁✅
-  - Video: []()
-  - Slide Deck: []()
-  - Infographic: []()
-  - Similar Podcast App: []()
+  - Video: [Equality_Before_Range.mp4](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/12.Put-Equality-Columns-First-In-Oracle-Indexes/Equality_Before_Range.mp4)
+  - Slide Deck: [Equality_Before_Range.pdf](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/12.Put-Equality-Columns-First-In-Oracle-Indexes/Equality_Before_Range.pdf)
+  - Infographic: [Database_Indexing_Equality_Before_Range.png](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/12.Put-Equality-Columns-First-In-Oracle-Indexes/Database_Indexing_Equality_Before_Range.png)
+  - Similar Podcast App: [Podcast-Put_Equality_Columns_First_In_Oracle_Indexes.html](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/12.Put-Equality-Columns-First-In-Oracle-Indexes/Podcast-Put_Equality_Columns_First_In_Oracle_Indexes.html)
 
 ## 🔍 About the Author
 
