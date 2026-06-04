@@ -30,7 +30,7 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 
 ## 📚 Course Outline
 
-- **01. The Oracle Explain Plan illusion!** ✅
+- **01. The Oracle Explain Plan illusion!** 🎁✅
   - Video: [Oracle_SQL_Performance.mp4](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/Oracle_SQL_Performance.mp4)
   - Slide Deck: [Oracle_SQL_Performance-Explain_Plan_vs_Display_Cursor.pdf](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/Oracle_SQL_Performance-Explain_Plan_vs_Display_Cursor.pdf)
   - Infographic: [SQL_Performance_Theory_vs._Reality.png](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/01.The-Oracle-Explain-Plan-illusion/SQL_Performance_Theory_vs._Reality.png)
@@ -40,7 +40,7 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 
 - **03. Why Your Oracle Optimizer Is Lying?** 💰🔥
 
-- **04. Oracle Access versus Filter Predicates!** ✅
+- **04. Oracle Access versus Filter Predicates!** 🎁✅
   - Video: [Decoding_SQL_Plans.mp4](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Decoding_SQL_Plans.mp4)
   - Slide Deck: [Oracle_Performance_X-Ray.pdf](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Oracle_Performance_X-Ray.pdf)
   - Infographic: [Database_Access_vs._Filter_Predicates.png](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/04.Oracle-Access-versus-Filter-Predicates/Database_Access_vs._Filter_Predicates.png)
@@ -52,11 +52,11 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 
 - **07. Why Hard-Coded SQL Hints Fail?** 💰🔥
 
-- **08. How Duplicate Indexes Kill Oracle Performance?** ✅
-  - Video: []()
-  - Slide Deck: []()
-  - Infographic: []()
-  - Similar Podcast App: []()
+- **08. How Duplicate Indexes Kill Oracle Performance?** 🎁✅
+  - Video: [Database_Forensics.mp4](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/08.How-Duplicate-Indexes-Kill-Oracle-Performance/Database_Forensics.mp4)
+  - Slide Deck: [Oracle_Index_Forensics.pdf](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/08.How-Duplicate-Indexes-Kill-Oracle-Performance/Oracle_Index_Forensics.pdf)
+  - Infographic: [Identifying_And_Hunting_Redundant_Indexes.png](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/08.How-Duplicate-Indexes-Kill-Oracle-Performance/Identifying_And_Hunting_Redundant_Indexes.png)
+  - Similar Podcast App: [Podcast-How_Dup_Ind_Kill_Ora_Performance.html](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/08.How-Duplicate-Indexes-Kill-Oracle-Performance/Podcast-How_Dup_Ind_Kill_Ora_Performance.html)
 
 - **09. Stop Database Crashes With Invisible Indexes!** 💰🔥
 
@@ -64,7 +64,7 @@ Here's an image about the **extra 8 number of episodes** when you finished purch
 
 - **11. Why Your Database Ignores Your Indexes?** 💰🔥
 
-- **12. Put Equality Columns First In Oracle Indexes!** ✅
+- **12. Put Equality Columns First In Oracle Indexes!** 🎁✅
   - Video: []()
   - Slide Deck: []()
   - Infographic: []()
