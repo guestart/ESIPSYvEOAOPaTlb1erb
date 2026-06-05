@@ -1,6 +1,8 @@
 # 🌟 Elegantly Solving Impressed Pain Spots You’ve Encountered Once About Oracle Performance and Tuning (12 episodes) 🌟
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/TUOSPG-8EKP.png)
+
+![](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/TUOSPG-4EKP.png)
 
 ## 📌 Hook
 
@@ -18,7 +20,7 @@ I've built the promotional activity for the curriculum. In other words, there ha
 
 Here's an image about the **extra 8 number of episodes** when you finished purchasing this course.
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAOPaTlb1erb/ESIPSYvEOAOPaTlb1erb-paid-portion.png)
 
 ### Note:
 
